@@ -14,10 +14,10 @@ import gradio as gr
 # ---------------------------------------------------------------------------
 # Load the trained pipeline (train_and_save.py must have been run first)
 # ---------------------------------------------------------------------------
-MODEL_PATH = pathlib.Path("model/rf_pipeline.joblib")
+MODEL_PATH = pathlib.Path("rf_pipeline.joblib")
 if not MODEL_PATH.exists():
     raise FileNotFoundError(
-        "model/rf_pipeline.joblib not found. "
+        "rf_pipeline.joblib not found. "
         "Run: uv run python scripts/train_and_save.py"
     )
 
