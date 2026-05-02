@@ -3,7 +3,7 @@
 Predict whether a hotel booking will be cancelled before it happens.
 Trained on 119,390 real hotel bookings. Deployed as a live web demo.
 
-**[Live Demo](https://huggingface.co/spaces/neuralxjam/staysure)**
+**[Live Demo](https://huggingface.co/spaces/neuralxjam/staysure)** &nbsp;|&nbsp; **[Portfolio write-up](https://neuralxjam.github.io/projects/staysure)**
 
 ---
 
